@@ -1,5 +1,5 @@
 <p align = "center">
-    Hi there 👋🏻
+    Hey there!
 </p>
 
 <p align = "center">
