@@ -3,7 +3,7 @@
 </p>
 
 <p align = "center">
-    My name is Kellon and I am currently working towards becoming a full stack web developer.
+    My name is Kellon and I am currently working on The Odin Project.
 </p>
 
 ---
